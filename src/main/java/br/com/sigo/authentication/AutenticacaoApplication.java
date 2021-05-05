@@ -20,7 +20,6 @@ import com.netflix.discovery.converters.Auto;
 @EnableAutoConfiguration
 @ComponentScan
 @EnableEurekaClient
-//Serviço de autenticação pro SIGO
 
 public class AutenticacaoApplication implements CommandLineRunner {
 
